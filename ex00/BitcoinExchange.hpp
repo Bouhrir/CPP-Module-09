@@ -5,6 +5,7 @@
 #include <map>
 #include <stdlib.h>
 #include <limits.h>
+#include <sstream>
 using std::cout;
 using std::string;
 using std::endl;
